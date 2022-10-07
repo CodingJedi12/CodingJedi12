@@ -7,6 +7,7 @@ My name is Kyler Marquis. I am currently a software engineer, but I previously p
 - JavaScript
 - jQuery
 - EJS
+- React
 
 ## More About Me 👨‍💻⚾️
 - ⚙️ Enrolled at General Assembly
