@@ -9,6 +9,8 @@ My name is Kyler Marquis. I am currently a software engineer, but I previously p
 - EJS
 - React
 - MongoDB/Mongoose
+- Python
+- Django
 
 ## More About Me 👨‍💻⚾️
 - ⚙️ Enrolled at General Assembly
